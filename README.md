@@ -1,4 +1,4 @@
-# To Fill with interesting stuff
+# Encodeur Base64 d'images
 
 Ce script encode une image en base64 et l'insert dans un tag <img> pour une incorporation sans lien.
 Le script traite toutes les images qui se trouvent dans le dossier images. 
